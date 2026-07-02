@@ -16,12 +16,18 @@ captures/
 *.apk
 output-metadata.json
 
+<<<<<<< HEAD
 # IntelliJ
 *.iml
 .idea/
 misc.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
+=======
+# Kotlin
+*.kotlin_module
+.kotlin/
+>>>>>>> f60d019 (Added dependencies and plugins)
 
 # Keystore files
 *.jks
